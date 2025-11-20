@@ -55,10 +55,8 @@ I am passionate about **clean code, reactive programming, and GenAI applications
 
 ### **GenAI RAG Search Engine**
 **Tech:** LangChain4j, Spring AI, LLM APIs  
-- Designed enterprise RAG pipeline for domain-specific search  
-- Integrated LLM embeddings for contextual understanding  
-- Delivered intelligent, context-aware search workflows  
-- Created reusable AI modules for future applications  
+- Just started venturing into GenAI  
+  
 
 ### **Credit Processing Pipeline**
 **Tech:** Spring Batch, Spring Integration DSL, Oracle  
